@@ -6,3 +6,4 @@ psycopg2-binary==2.9.7
 python-decouple==3.8
 Pillow==10.0.0
 drf-yasg==1.21.7
+gunicorn==21.2.0
